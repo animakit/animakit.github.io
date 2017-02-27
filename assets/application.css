@@ -913,6 +913,7 @@ $color6: #9498a1; // silver
 }
 
 .Demo-content--RKdcs {
+  position: relative;
   margin: 20px 0;
   min-height: 100px
 }
@@ -1372,7 +1373,7 @@ $color6: #9498a1; // silver
 
 .ExpanderField-inputTextarea--3YHWP {
   margin-top: 10px;
-  height: 104px;
+  height: 84px;
   resize: none;
 }
 
